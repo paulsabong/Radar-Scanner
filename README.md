@@ -47,7 +47,7 @@ Original Processing Code: [Click Here](https://hackaday.io/project/14871-make-a-
 - Prototyping board
 - Wires
 - HC-SR04 
-- Microservo Motor
+- Micro Servo Motor
 - Optional:
   - 100uF Polarized Capacitor
 
