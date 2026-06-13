@@ -1,4 +1,5 @@
 # Radar Scanner 
+<img width="4032" height="3024" alt="radar-scanner-image-1" src="https://github.com/user-attachments/assets/17c58d2c-533c-4a20-b66e-d79462469d33" />
 
 ## Background 
 Radar scanners are widely used in Aerospace & Defense, such as detecting extraterrestrial objects and aircrafts for security. The scope of this project will be limited to ground object detection within less than 10 meters. 
