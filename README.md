@@ -63,7 +63,7 @@ Which is equivalent to:
 - Upload the Arduino code to the Arduino UNO 
 - Stop running the Arduino code, then run the Processing code. 
   - Notes
-    - Two consoles should not run simultaneously for the same serial port. This will produce a “port is busy” error. 
+    - Two consoles should not run simultaneously on the same serial port. This will produce a “port is busy” error. 
     - Change the port on the Processing code from “COM3” to the current port the Arduino is attached to. 
 
 
