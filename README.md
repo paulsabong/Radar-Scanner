@@ -19,7 +19,7 @@ Re-arranging for $d$,
 
 $d= vt$
 
-Where $d$ is the distance (in cm) from the sensor to the object, $v$ is the air speed, 343 m/s or 0.0343 cm/µs, and $t$ is the time (in µs), taken for the soundwave to travel to and from the object. 
+Where $d$ is the distance (in cm) from the sensor to the object, $v$ is the air speed, 343 m/s or 0.0343 cm/µs, and $t$ is the time (in µs) taken for the soundwave to travel to and from the object. 
 
 Since the total distance of the soundwave is twice the object’s range, the above equation will be adjusted to, 
 
@@ -62,8 +62,9 @@ Which is equivalent to:
 - Download the zip folder
 - Upload the Arduino code to the Arduino UNO 
 - Stop running the Arduino code, then run the Processing code. 
-  - Note 1: two consoles should not run simultaneously for the same serial port. This will produce a “port is busy” error. 
-  - Note 2: Change the port on the Processing code from “COM3” to the current port the Arduino is attached to. 
+  - Notes
+    - Two consoles should not run simultaneously for the same serial port. This will produce a “port is busy” error. 
+    - Change the port on the Processing code from “COM3” to the current port the Arduino is attached to. 
 
 
 
