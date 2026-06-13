@@ -38,11 +38,11 @@ Original Processing Code: [Click Here](https://hackaday.io/project/14871-make-a-
 
 ## Build Instructions
 
-### Software Tools Required: 
+### Software Tools Required
 - Arduino IDE or VS Code
 - Processing 4.0 or later
 
-### Material Requirements: 
+### Material Requirements
 - Arduino / ELEGOO UNO R3
 - Prototyping board
 - Wires
@@ -51,14 +51,14 @@ Original Processing Code: [Click Here](https://hackaday.io/project/14871-make-a-
 - Optional:
   - 100uF Polarized Capacitor
 
-### Assemble the following circuit: 
+### Assemble the Following Circuit
 <img width="736" height="516" alt="image" src="https://github.com/user-attachments/assets/11f16270-c8e2-43e4-b5fa-59c6474f4d5d" />
 
 Which is equivalent to: 
 
 <img width="433" height="545" alt="radar-scanner-diagram" src="https://github.com/user-attachments/assets/72aca90d-c892-4f60-8bb0-b08a5a89c28e" />
 
-### Code Installation Instructions:
+### Code Installation Instructions
 - Download the zip folder
 - Upload the Arduino code to the Arduino UNO 
 - Stop running the Arduino code, then run the Processing code. 
