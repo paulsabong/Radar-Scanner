@@ -48,11 +48,14 @@ Original Processing Code: [Click Here](https://hackaday.io/project/14871-make-a-
 - Wires
 - HC-SR04 
 - Microservo Motor
+- Optional:
+  - 100uF Polarized Capacitor
 
 ### Assemble the following circuit: 
 <img width="736" height="516" alt="image" src="https://github.com/user-attachments/assets/11f16270-c8e2-43e4-b5fa-59c6474f4d5d" />
 
 Which is equivalent to: 
+
 <img width="433" height="545" alt="radar-scanner-diagram" src="https://github.com/user-attachments/assets/72aca90d-c892-4f60-8bb0-b08a5a89c28e" />
 
 ### Code Installation Instructions:
